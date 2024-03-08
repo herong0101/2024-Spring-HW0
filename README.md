@@ -3,7 +3,7 @@
 All the detailed specified in Homework 0 documentation.
 
 ## Wallet Address
-Please provide your MetaMask wallet address:
+Please provide your MetaMask wallet address: 0xa6421bad7abA6E506fa8657be3968Fc27bD05B0b
 
 ## Local Testing
 ![image](https://github.com/herong0101/2024-Spring-HW0/assets/108394340/a8343003-d3a7-41cd-9121-c770a7ddeaa2)
